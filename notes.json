@@ -654,11 +654,307 @@
     },
     {
       "file": "pages/img20261104_10305241.png",
-      "notes": []
+      "notes": [
+        {
+          "id": 1795476044161,
+          "x": 2.720384943946543,
+          "y": 72.27317386160848,
+          "w": 25.5509663006694,
+          "h": 5.054068102210394,
+          "title": "The Pax House",
+          "text": "The Pax Security Council (Human Peace and Security Council)"
+        },
+        {
+          "id": 1795476067439,
+          "x": 3.064737568263904,
+          "y": 78.9950840519535,
+          "w": 45.8677711353937,
+          "h": 7.025155433262029,
+          "title": "",
+          "text": "You have certainly heard of that snow-white stone house suspended high above. The textbooks tell us that it is the Pax Security Council, the current supreme governing body of Earth. They do not directly manage human society, appearing only at critical moments concerning survival and development."
+        },
+        {
+          "id": 1795476097648,
+          "x": 54.71763384307008,
+          "y": 83.74590883922085,
+          "w": 34.986228732405486,
+          "h": 5.711096569902949,
+          "title": "",
+          "text": "The Pax House seems to possess the ability to use pigeons for surveillance and transmitting messages. These white pigeons composed of plaster are called \"the pigeons of the white stone house\" by high-ranking officials in the know."
+        }
+      ]
     },
     {
       "file": "pages/img20261104_10364480.png",
-      "notes": []
+      "notes": [
+        {
+          "id": 1795476196319,
+          "x": 4.442148065533347,
+          "y": 65.7230484104762,
+          "w": 47.58953425698051,
+          "h": 5.846529055699008,
+          "title": "",
+          "text": "An organization under the Pax Security Council, an international body responsible for the discovery, containment, management, and utilization of arcanists, arcane items, and the like."
+        },
+        {
+          "id": 1795476219340,
+          "x": 5.544076726069106,
+          "y": 72.22479152323699,
+          "w": 46.005508769758,
+          "h": 7.912974794522569,
+          "title": "",
+          "text": "\"Within a quarter of an hour after the silver bell rings, loyal companions stand lined up here in waiting. A peacekeeping organization active around the world, and the container and manager of arcanists, arcane items, and arcane phenomena. You can safely entrust your child to the St. Pavlov Foundation; he will become a good child here.\""
+        },
+        {
+          "id": 1795476240414,
+          "x": 58.092285357856966,
+          "y": 82.86362169207166,
+          "w": 37.2589581546617,
+          "h": 9.62661259355518,
+          "title": "",
+          "text": "The St. Pavlov Foundation is an international organization with the Joint Committee at its core, establishing the Communion Faction and other departments as well as subordinate agencies beneath it, with branches and affiliated offices built in various regions. Subordinate agencies include field organizations such as the Outsourced Contract Talent Management Organization, the School of Primary Defense serving as an educational institution, the Night Watch Special Operations Management Bureau responsible for preventing and investigating arcanist criminal cases, and the Timekeeper Squad which holds an independent establishment."
+        },
+        {
+          "id": 1795476261414,
+          "x": 78.68457859732003,
+          "y": 91.78461801834962,
+          "w": 17.42423438341197,
+          "h": 2.923261899720899,
+          "title": "Organizational Structure",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "file": "pages/img20261104_10415572.png",
+      "notes": [
+        {
+          "id": 1795476342268,
+          "x": 39.91047099742355,
+          "y": 18.414580878570636,
+          "w": 58.53994613395137,
+          "h": 18.36412977959907,
+          "title": "",
+          "text": "1. The Foundation is dedicated to safeguarding the human world and promoting social relations between arcanists and human groups, though internal attitudes and views on this differ.\n2. The organization is committed to discovering, containing, and utilizing the world's remaining arcane power; the occurrence of the \"Storm\" has made this duty even more vital.\n3. \"May peace be with us, may peace be with mankind\" is the Foundation's fundamental creed; the Peace Declaration based on this creed states that \"regardless of physical health, wealth or poverty, or racial differences, one should extend a helping hand to maintain Earth's peaceful order.\"\n4. The Foundation's guiding policy is to implement the \"Peace Policy\" and promote the integration of arcane technology into human society. Every year, the Foundation incurs massive expenditures for arcanum-related culture and education.\n5. The Foundation restricts arcanists through discipline and control; some members believe that malignant incidents in history stemmed from the restless nature of arcanists, and therefore controls cannot be relaxed.\n6. Numerous ideologies and factions exist within the Foundation; the contradictions in their demands and beliefs are fracturing the Foundation's convictions, and after the \"Storm\" occurred, factions such as human supremacism began to rise."
+        },
+        {
+          "id": 1795476482746,
+          "x": 2.582644682380207,
+          "y": 28.252507649313852,
+          "w": 29.201102279392007,
+          "h": 11.401904102939067,
+          "title": "Beliefs and Conflicts",
+          "text": ""
+        },
+        {
+          "id": 1795476550555,
+          "x": 1.8939394337454853,
+          "y": 42.2274072147814,
+          "w": 46.69421664559475,
+          "h": 5.0450906516631875,
+          "title": "",
+          "text": "In accordance with the \"Containment Management Regulations,\" the St. Pavlov Foundation registers and manages arcanists of various risk levels, and strives to promote integration between races."
+        },
+        {
+          "id": 1795476571767,
+          "x": 57.33471063523958,
+          "y": 40.00756848277921,
+          "w": 34.91735925842284,
+          "h": 10.796494764378956,
+          "title": "Management of Arcanists",
+          "text": ""
+        },
+        {
+          "id": 1795476624979,
+          "x": 1.7561978585781353,
+          "y": 47.47430226233086,
+          "w": 8.333333771200337,
+          "h": 1.9675861239683812,
+          "title": "Management System",
+          "text": ""
+        },
+        {
+          "id": 1795476630745,
+          "x": 1.1363633975270884,
+          "y": 49.74459305557929,
+          "w": 48.622589502730555,
+          "h": 11.70461069676847,
+          "title": "",
+          "text": "1. Unregistered arcanists generally must undergo collective training at correctional/educational schools established by the Foundation before proceeding with subsequent registration;\n2. The St. Pavlov Foundation rates arcanists of different abilities in order to provide varying degrees of support;   \n3. The St. Pavlov Foundation adopts different containment measures based on an arcanist's danger level: low-risk arcanists are not forcibly contained, whereas higher-risk ones are forcibly contained in underground containment facilities;\n4. According to the \"Talent Protection\" regulations, certain arcanists contained by the Foundation have their outside movements restricted, especially operations related to combat."
+        },
+        {
+          "id": 1795476692582,
+          "x": 45.48898246048399,
+          "y": 86.68096664571218,
+          "w": 47.52065690139177,
+          "h": 5.600050815801069,
+          "title": "",
+          "text": "One of the subordinate agencies of the St. Pavlov Foundation, providing education for underage arcanists and using specific educational methods to enhance students' understanding of arcanum, helping them form sound and reliable values. More than half of its graduating students go on to serve in the Foundation, mostly as frontline investigators."
+        }
+      ]
+    },
+    {
+      "file": "pages/img20261104_10491569.png",
+      "notes": [
+        {
+          "id": 1795476856599,
+          "x": 69.73140511066458,
+          "y": 25.018948205664906,
+          "w": 8.608820862338078,
+          "h": 2.4420893860237634,
+          "title": "Information Control",
+          "text": ""
+        },
+        {
+          "id": 1795476874141,
+          "x": 69.66253563668192,
+          "y": 28.009260808376673,
+          "w": 29.614325691293047,
+          "h": 13.007860962509909,
+          "title": "",
+          "text": "1. In certain respects, the Foundation intentionally restricts staff members' awareness of the \"Storm.\n2. The Foundation conceals the existence of the \"Storm\" from the masses of each era through methods including, but not limited to, controlling the media, and only screens specific candidates of value.\n3. The \"Storm\" is a strictly forbidden term within the School of Primary Defense under its jurisdiction; students who mention it receive detention, while staff members are escorted away.\n"
+        },
+        {
+          "id": 1795476962338,
+          "x": 4.373278591550687,
+          "y": 46.7983910917254,
+          "w": 9.022037706234045,
+          "h": 2.6912821029164107,
+          "title": "Precautionary Measures",
+          "text": ""
+        },
+        {
+          "id": 1795477064430,
+          "x": 4.235537016383336,
+          "y": 50.087734194232524,
+          "w": 48.76033370509994,
+          "h": 7.67513644076935,
+          "title": "",
+          "text": "1. The \"Storm\" emergency system was established after the second \"Storm.\" Proposed by Lucy, the head of Laplace at the time, and jointly built with the Foundation, the system includes the following steps:\n-Establish contact with all branches in the current era and tally deployable manpower.\n-Establish observation stations worldwide to search for other areas immune to the \"Storm.\"\n-Establish multiple workshops to deduce the causes of the \"Storm.\""
+        },
+        {
+          "id": 1795477069681,
+          "x": 4.786500689850709,
+          "y": 58.16157860179219,
+          "w": 48.27823950561522,
+          "h": 9.868033109900473,
+          "title": "",
+          "text": "2. After the third \"Storm,\" the Foundation established the Timekeeper to provide authoritative reports and records of outside time.\n3. Because social conflicts, historical turmoil, the birth of new technologies, and other factors can trigger or accelerate the \"Storm,\" the Foundation assigned outsourced contract teams the duty of forecasting the \"Storm's\" tipping point—a duty distinct from that of dispatched investigators.\n4. During the ninth \"Storm,\" the Scientific Computing Center developed \"Storm\"-immune protective gear—the Equilibrium Umbrella. Some senior investigators are issued samples, while others can obtain an Equilibrium Umbrella through application."
+        },
+        {
+          "id": 1795477120465,
+          "x": 52.99587072148327,
+          "y": 47.44629177540837,
+          "w": 10.123965053168796,
+          "h": 2.043379518043892,
+          "title": "Administrative Measures",
+          "text": ""
+        },
+        {
+          "id": 1795477136447,
+          "x": 53.684575970118,
+          "y": 50.38676659521742,
+          "w": 45.04131905718757,
+          "h": 16.147688815119352,
+          "title": "",
+          "text": "1. The Foundation has established corresponding processing standards and containment procedures for \"Storm\" survivors.\n2. After a \"Storm,\" the Foundation arranges new era-appropriate identities for headquarters staff and dispatches investigators to collect arcane materials, equipment, preservable arcane skills, and high-level technical talent from that era based on retained records.\n3. Before a \"Storm\" occurs, field personnel are ordered to abandon their missions and return to headquarters for shelter. Before taking shelter, they must undergo an inspection procedure to screen for the effects of \"Storm\" syndrome; those severely affected by \"Storm\" syndrome are quarantined and have their movements restricted.\n4. Given the limited space at headquarters, unregistered non-essential personnel, including family members, are prohibited from entering headquarters.\n5. During the \"Storm\" countdown, the Foundation conducts an internal inventory of its preserved era collections and historical records."
+        },
+        {
+          "id": 1795477234265,
+          "x": 6.232781974703828,
+          "y": 85.92164954506055,
+          "w": 29.20110490659404,
+          "h": 6.2298179223161725,
+          "title": "",
+          "text": "An identification badge obtained by Foundation members upon formal onboarding. With this ID card, one can enter and exit areas permitted by their rank. If the ID card is lost, a loss report must be submitted before going through the replacement process."
+        },
+        {
+          "id": 1795477238108,
+          "x": 20.626721408449313,
+          "y": 79.94102433963702,
+          "w": 12.53443605059234,
+          "h": 5.033692120755646,
+          "title": "Foundation ID Card",
+          "text": ""
+        },
+        {
+          "id": 1795477248984,
+          "x": 38.257577349819414,
+          "y": 86.42003497884583,
+          "w": 27.754818367336853,
+          "h": 5.083529903658373,
+          "title": "",
+          "text": "A passport-like pass carried by Foundation field personnel. The basic information on this credential differs from an ID card, displaying only job title, name, and signature."
+        },
+        {
+          "id": 1795477259870,
+          "x": 53.06474019546593,
+          "y": 80.43940977342231,
+          "w": 11.225892400103533,
+          "h": 4.435629219975382,
+          "title": "Foundation Pass",
+          "text": ""
+        },
+        {
+          "id": 1795477271720,
+          "x": 69.11156933601252,
+          "y": 85.72229461107061,
+          "w": 30.027553043997116,
+          "h": 6.379335073403411,
+          "title": "",
+          "text": "A specialized communicator issued to Foundation field personnel with diverse functions, capable of communication, enemy detection, and identifying abnormal fluctuations in surrounding arcane skills. Different functions are unlocked based on the user's clearance level."
+        },
+        {
+          "id": 1795477286495,
+          "x": 83.02341325667227,
+          "y": 80.6387628062227,
+          "w": 10.537192405872872,
+          "h": 3.987083470282357,
+          "title": "Foundation Communicator",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "file": "pages/img20261104_12401783.png",
+      "notes": [
+        {
+          "id": 1795477364939,
+          "x": 1.8250686461618104,
+          "y": 34.47010772275148,
+          "w": 11.363636602472912,
+          "h": 2.9517216769364794,
+          "title": "The Master Chess Player",
+          "text": ""
+        },
+        {
+          "id": 1795477377885,
+          "x": 2.031679695311821,
+          "y": 38.32235433359028,
+          "w": 34.71074295486876,
+          "h": 12.957557562646791,
+          "title": "",
+          "text": "Chess is Constantine's most beloved sport; she excels at it just as she is well-versed in the art of power and politics\nOn the final day of 1999, the \"Storm\" washed away nearly everything, replaced by foolish despair and ignorance. A chessboard named Fate unfolded amidst the recklessly backward-flowing time, and within it lay the very moment requiring someone to hold the pieces.\nAs the final piece fell, she saw that the people had become pure white chess pieces, their faces filled with youthfulness, crimson blood... they served as part of something grand, as the price to be paid."
+        },
+        {
+          "id": 1795477415416,
+          "x": 0.03443473699133034,
+          "y": 57.43350307957049,
+          "w": 16.11570255533229,
+          "h": 3.5520713147943823,
+          "title": "Behind-the-Scenes Perspective",
+          "text": ""
+        },
+        {
+          "id": 1795477425807,
+          "x": 1.4118452342607744,
+          "y": 61.63595340726867,
+          "w": 30.50964067547676,
+          "h": 18.410741312261464,
+          "title": "",
+          "text": "During our creative process, Constantine was conceived as Vertin's antithesis. She is a thorough political creature; years of political experience have made her adept at weighing the value behind every emotion. To her, only by fathoming others' emotions without exposing oneself can one effortlessly control the situation.\n\nConstantine has always believed the Foundation is overly tolerant toward arcanists—they are uncontrollable, manic, and disorderly. Yet the Foundation not only accommodates these flaws, it dotes upon these people. While the outside world may harbor prejudices against arcanists, years of political experience make Constantine far more inclined to view this as an opportunity.\n\nConstantine's symbolic motif is the white lily."
+        }
+      ]
     }
   ]
 }
