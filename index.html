@@ -32,7 +32,7 @@ main{max-width:1200px;margin:0 auto;padding:1.2rem}
 .hs.draw{background:#b5503f33;border:1px dashed var(--red);pointer-events:none}
 .hs.draw::before{display:none}
 .hide-dots .hs::before{display:none}
-.card{position:fixed;z-index:20;width:min(340px,calc(100vw - 24px));background:var(--paper);color:#2a1d12;padding:1rem 1.1rem 1.1rem;line-height:1.4;box-shadow:0 14px 40px #000c,inset 0 0 0 1px var(--gold2);border-left:5px solid var(--gold2);animation:pop .15s ease-out}
+.card{position:fixed;z-index:20;width:min(340px,calc(100vw - 24px));background:var(--paper);color:#2a1d12;padding:1rem 1.1rem 1.1rem;line-height:1.4;box-shadow:0 14px 40px #000c,inset 0 0 0 1px var(--gold2);border-left:5px solid var(--gold2);animation:pop .15s ease-out;max-height:calc(100vh - 16px);max-height:calc(100dvh - 16px);overflow-y:auto;overscroll-behavior:contain}
 @keyframes pop{from{opacity:0;transform:translateY(6px)}}
 @media (prefers-reduced-motion:reduce){.card{animation:none}}
 .card h3{margin:0 0 .35rem;font-weight:600;font-size:1.35rem;color:#6b4a1f}
